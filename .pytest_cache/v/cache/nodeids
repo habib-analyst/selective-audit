@@ -1,0 +1,18 @@
+[
+  "tests/test_selective_audit.py::test_budget_compliance[drift_ucb]",
+  "tests/test_selective_audit.py::test_budget_compliance[epsilon_greedy]",
+  "tests/test_selective_audit.py::test_budget_compliance[fixed_proportional]",
+  "tests/test_selective_audit.py::test_budget_compliance[uniform]",
+  "tests/test_selective_audit.py::test_burst_rates_spike_above_base",
+  "tests/test_selective_audit.py::test_change_point_reset_fires_on_flip",
+  "tests/test_selective_audit.py::test_discount_decays_counts",
+  "tests/test_selective_audit.py::test_drift_rates_are_permutations_that_change",
+  "tests/test_selective_audit.py::test_drift_ucb_beats_uniform_on_burst",
+  "tests/test_selective_audit.py::test_drift_ucb_beats_uniform_on_drift",
+  "tests/test_selective_audit.py::test_fixed_proportional_freezes_after_pilot",
+  "tests/test_selective_audit.py::test_oracle_bounds_policies",
+  "tests/test_selective_audit.py::test_static_rates_constant",
+  "tests/test_selective_audit.py::test_stream_determinism",
+  "tests/test_selective_audit.py::test_stream_labels_consistent_with_rates",
+  "tests/test_selective_audit.py::test_uniform_detection_rate_sanity"
+]
